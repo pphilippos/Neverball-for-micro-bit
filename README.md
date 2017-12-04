@@ -8,7 +8,6 @@ This is a version of Neverball that supports micro:bit as a controller.
 
 It uses micro:bit's accelerometer as a gyroscope to adjust the angle of the floor.
 
-Animated gif demonstration
 ![micro:bit's accelerometer as a gyroscope](./demonstration.gif)
 
 Video demonstrations
